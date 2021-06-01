@@ -37,5 +37,5 @@ six==1.11.0
 spyder-kernels==0.2.6
 tornado==5.1.1
 traitlets==4.3.2
-urllib3==1.24
+urllib3==1.26.5
 wcwidth==0.1.7
